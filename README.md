@@ -2,7 +2,7 @@
 
 Hello!
 
-Game "Treasure Hunt"
+Game for browser "Treasure Hunt"
 
 Find the treasure with less amount of clicks. 
 Distance with lower number - close, higher number - far. 
